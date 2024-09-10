@@ -1,3 +1,4 @@
 Hello Satyajeet,
  
 I have completed Devops courses in 2024 
+I have also completed SQL and Linux Commands 
